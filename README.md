@@ -55,6 +55,7 @@ Alternate approach to above assignment (except POWER BI) If the mail server is O
 
 If the mail server is Outlook, we can consider using the Microsoft Graph API (to read outlook and download attachments).
 Workflow would like to be:
+
 **Setup:**
  - Email Account: API will be configured to access MS Outlook.
  - Azure Storage: Storage account and blob container in Azure to store the file.
